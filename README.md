@@ -114,6 +114,8 @@ In other cases, the task may need to be put to a DataDAO governance vote before 
 
 In any case, the goal is to ensure that tasks are satisfactorily completed and that users receive fair rewards for their work.
 
+  Note: It is important to highlight that, although Taskcore is responsible for task management and reward payment, the validation of tasks and the quality of the collected data will be the exclusive responsibility of the DataDAO members. In other words, the assignment and approval of tasks will depend on the consensus reached by the DataDAO members, who will evaluate and vote through governance processes to decide who to assign a task to and if a completed task can be approved. This ensures that the collected information is reliable and of high quality, resulting in better performance and greater satisfaction for both users and DataDAO members.
+
 ## Rewards:
 Once a task has been approved and validated, the user who completed the task will receive the reward offered in tokens. Rewards are stored in the **Taskcore** task creation contract and automatically transferred to the user's wallet address once the task is completed.
 
@@ -126,4 +128,4 @@ Users can explore available tasks on the **Taskcore** user interface and apply t
 
 If you are a member of a DataDAO, you can create task proposals for the community to complete and encourage collaboration and community growth.
 
-Join **Taskcore** today and contribute to the decentralized data management of the DataDAO community!# taskcore
+Join **Taskcore** today and contribute to the decentralized data management of the DataDAO community!
