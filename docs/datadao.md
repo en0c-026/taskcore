@@ -1,0 +1,13 @@
+DataDAOs
+In combination with data access controls, the EVM allows for the creation and management of autonomous decentralized data organizations (Data DAOs). The EVM enables a group of individuals or organizations to select and retain a collection of data. Data DAOs can govern and monetize access to data and pool returns in a shared treasury to fund the preservation of collections and long-term growth.
+
+DataDAOs (Decentralized Autonomous Organizations for Data) are DAOs whose mission revolves around the preservation, curation, enhancement, and promotion of datasets considered valuable by their stakeholders. These datasets can be datasets of great value to humanity at large, such as large genomic or research databases, indexed blockchain historical data and transactions, rollup data, Wikipedia, NFT collections, metaverse assets, and more. But they can also be datasets valued by narrower collectives, such as video compilations of soccer, statistics published by governments and municipalities, or industry-specific machine learning datasets.
+
+The key to DataDAOs is that participation tokens in them can be tokenized, and the data stored by the DAO (as well as its state) can be cryptographically proven, allowing the value and usefulness of data to be objectively expressed and traded within markets. Tokens can be used to pay for services that will be performed with the data, such as data analysis, scientific and machine learning model building, statistical computation, and more, increasing the value, importance, and usefulness of the original data. Service providers can receive rewards for replicating datasets, and content distribution networks can receive rewards for distributing data.
+
+Data Forge
+Stakeholders can spend tokens to further incentivize the production of raw data, such as sensor data collection, generative art, and even human tasks (transcription, translation, etc.), resulting in a circular data economy focused on data.
+
+DataDAOs can be used by different organizations or groups of people to coordinate the management and use of data in different ways. Some DataDAOs could focus on data collection and analysis to support scientific research, while others could be focused on the development of AI applications or creating open data for use by the general public.
+
+In any case, DataDAOs can use reward mechanisms to incentivize contribution and collaboration around data. This may include the publication of specific works or tasks, or the offering of financial rewards or other incentives for those who contribute significantly to the project. In this way, DataDAOs can help encourage collaboration and information sharing, fostering innovation and progress in different fields.
