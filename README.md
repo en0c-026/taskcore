@@ -9,6 +9,7 @@
   - [Task creation:](#task-creation)
   - [Task validation:](#task-validation)
   - [Rewards:](#rewards)
+  - [Platform](#platform)
   - [Conclusion:](#conclusion)
 
 ## Introduction:
@@ -120,6 +121,10 @@ In any case, the goal is to ensure that tasks are satisfactorily completed and t
 Once a task has been approved and validated, the user who completed the task will receive the reward offered in tokens. Rewards are stored in the **Taskcore** task creation contract and automatically transferred to the user's wallet address once the task is completed.
 
 Users can view their completed task history and received rewards on their user profile in the **Taskcore** user interface.
+
+## Platform
+
+Learn more about how work Taskcore platform, here [taskcore-platform.md](docs/taskcore-platform.md).
 
 ## Conclusion:
 **Taskcore** is a decentralized service that allows DataDAOs to create and assign tasks related to data management and reward users for completing them. The platform uses **Filecoin** blockchain technology to ensure transparency and security in the task management process.
