@@ -2,3 +2,7 @@ hardhat/.env
 hardhat/artifacts
 hardhat/cache
 hardhat/node_modules
+nextjs/.env
+nextjs/.env.local
+nextjs/.next
+nextjs/node_modules
